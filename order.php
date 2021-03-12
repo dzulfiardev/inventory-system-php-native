@@ -234,7 +234,7 @@ include('header.php');
                         html: `<span class="font-weight-bold">${data}<span>`
                     })
                     orderdataTable.ajax.reload();
-                }
+                }   
             });
         });
 
